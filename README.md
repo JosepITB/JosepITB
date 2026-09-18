@@ -1,5 +1,16 @@
 buenaaas mi gentee 👋
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+<br><br>
+<br><br>
 
+## Mis skills
+
+</br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+<br><br>
 
 
 ## Lo que estoy aprendiendo actualmente 📚
@@ -19,8 +30,3 @@ buenaaas mi gentee 👋
 </br>
 </br>
 
-
-
-<a href="https://spotify-widget.jvillegasd.com/?opened">
-  <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
-</a>
