@@ -19,6 +19,7 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/intellij.png" alt="intellij" width="150" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/wordpress.png" alt="Wordpress" width="140" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="100" hight="50">
+<img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="kotlin" width="50" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
